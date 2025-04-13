@@ -105,9 +105,3 @@ The project produces:
    ```bash
    python app_user_segmentation.py
    ```
-
----
-
-## 🙌 Acknowledgements
-
-This project was built to showcase practical clustering for behavioral segmentation in apps. Inspired by real-world retention and churn problems faced by app-based platforms.
